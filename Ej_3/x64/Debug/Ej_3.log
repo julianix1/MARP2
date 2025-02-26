@@ -1,0 +1,24 @@
+﻿  Ej_3.cpp
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(42,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Ej_3.cpp")
+  C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(42,44):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Ej_3.cpp(13,13):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Matriz<int>" que se está compilando
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(42,9):
+  	al compilar la función del miembro clase plantilla "int Matriz<int>::numcols(void) const"
+  		C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Ej_3.cpp(13,11):
+  		vea la primera referencia a “Matriz<int>::numcols” en “resolver”
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(41,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Ej_3.cpp")
+  C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(41,44):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(41,9):
+  	al compilar la función del miembro clase plantilla "int Matriz<int>::numfils(void) const"
+  		C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Matriz.h(42,27):
+  		vea la primera referencia a “Matriz<int>::numfils” en “Matriz<int>::numcols”
+  		C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_3\Ej_3.cpp(13,11):
+  		vea la primera referencia a “Matriz<int>::numcols” en “resolver”
+  
+  Ej_3.vcxproj -> C:\Users\julia\Documents\Programacion\c++\Marp2\x64\Debug\Ej_3.exe

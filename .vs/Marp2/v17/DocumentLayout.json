@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8611039-7F50-4EB8-B504-BF46D899F296}|Ej_08\\Ej_08.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_08\\Ej_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8611039-7F50-4EB8-B504-BF46D899F296}|Ej_08\\Ej_08.vcxproj|solutionrelative:Ej_08\\Ej_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8611039-7F50-4EB8-B504-BF46D899F296}|Ej_08\\Ej_08.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_08\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8611039-7F50-4EB8-B504-BF46D899F296}|Ej_08\\Ej_08.vcxproj|solutionrelative:Ej_08\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "casos.txt",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_08\\casos.txt",
+              "RelativeDocumentMoniker": "Ej_08\\casos.txt",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_08\\casos.txt",
+              "RelativeToolTip": "Ej_08\\casos.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-21T09:49:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej_08.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_08\\Ej_08.cpp",
+              "RelativeDocumentMoniker": "Ej_08\\Ej_08.cpp",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_08\\Ej_08.cpp",
+              "RelativeToolTip": "Ej_08\\Ej_08.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAMwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T09:14:13.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

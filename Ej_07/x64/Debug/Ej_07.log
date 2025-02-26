@@ -1,0 +1,4 @@
+﻿  Ej_07.cpp
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_07\Ej_07.cpp(47,58): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_07\Ej_07.cpp(47,37): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej_07.vcxproj -> C:\Users\julia\Documents\Programacion\c++\Marp2\x64\Debug\Ej_07.exe

@@ -1,0 +1,55 @@
+﻿  Ej_08.cpp
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\EnterosInf.h(27,20): warning C4305: 'argumento': truncamiento de 'const __int64' a 'int'
+  (compilando archivo de origen "Ej_08.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\EnterosInf.h(27,20): warning C4309: 'argumento': truncamiento de valor constante
+  (compilando archivo de origen "Ej_08.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\EnterosInf.h(28,25): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Ej_08.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\EnterosInf.h(55,31): warning C4305: 'argumento': truncamiento de 'const __int64' a 'int'
+  (compilando archivo de origen "Ej_08.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\EnterosInf.h(55,31): warning C4309: 'argumento': truncamiento de valor constante
+  (compilando archivo de origen "Ej_08.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Matriz.h(42,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Ej_08.cpp")
+  C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Matriz.h(42,44):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Ej_08.cpp(14,25):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Matriz<EntInf>" que se está compilando
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Matriz.h(42,9):
+  	al compilar la función del miembro clase plantilla "int Matriz<EntInf>::numcols(void) const"
+  		C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Ej_08.cpp(15,9):
+  		vea la primera referencia a “Matriz<EntInf>::numcols” en “gradoSeparacion”
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Matriz.h(41,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Ej_08.cpp")
+  C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Matriz.h(41,44):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Matriz.h(41,9):
+  	al compilar la función del miembro clase plantilla "int Matriz<EntInf>::numfils(void) const"
+  		C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Ej_08.cpp(14,5):
+  		vea la primera referencia a “Matriz<EntInf>::numfils” en “gradoSeparacion”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267: 'inicializando': conversión de 'size_t' a '_Ty2'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         ]
+  (compilando archivo de origen "Ej_08.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Ej_08.cpp(61,31):
+  	Vea la referencia a la creación de una instancia de la función plantilla "std::pair<const std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)" que se está compilando
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+  		C:\Users\julia\Documents\Programacion\c++\Marp2\Ej_08\Ej_08.cpp(61,30):
+  		vea la primera referencia a “std::pair<const std::string,int>::pair” en “resuelveCaso”
+  
+  Ej_08.vcxproj -> C:\Users\julia\Documents\Programacion\c++\Marp2\x64\Debug\Ej_08.exe

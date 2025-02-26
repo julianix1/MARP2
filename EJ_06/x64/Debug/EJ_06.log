@@ -1,0 +1,19 @@
+﻿  EJ_06.cpp
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EnterosInf.h(27,20): warning C4305: 'argumento': truncamiento de 'const __int64' a 'int'
+  (compilando archivo de origen "EJ_06.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EnterosInf.h(27,20): warning C4309: 'argumento': truncamiento de valor constante
+  (compilando archivo de origen "EJ_06.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EnterosInf.h(28,25): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "EJ_06.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EnterosInf.h(55,31): warning C4305: 'argumento': truncamiento de 'const __int64' a 'int'
+  (compilando archivo de origen "EJ_06.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EnterosInf.h(55,31): warning C4309: 'argumento': truncamiento de valor constante
+  (compilando archivo de origen "EJ_06.cpp")
+  
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EJ_06.cpp(50,31): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\julia\Documents\Programacion\c++\Marp2\EJ_06\EJ_06.cpp(50,17): warning C4267: 'inicializando': conversión de 'size_t' a 'const int'; posible pérdida de datos
+  EJ_06.vcxproj -> C:\Users\julia\Documents\Programacion\c++\Marp2\x64\Debug\EJ_06.exe
