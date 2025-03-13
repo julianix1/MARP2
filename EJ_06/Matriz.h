@@ -61,3 +61,4 @@ inline std::ostream& operator<<(std::ostream& out, Matriz<Object> const& m) {
 }
 
 #endif
+

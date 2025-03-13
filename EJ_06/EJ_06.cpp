@@ -9,15 +9,15 @@
 
 using namespace std;
 
-EntInf recursion(Matriz<EntInf>& mat, int i , int j, const string& cadena) {
+EntInf recursion(Matriz<EntInf>& mat, int i, int j, const string& cadena) {
     EntInf res = mat[i][j];
     if (res == Infinito) {
         if (i >= j) res = 0;
         else if (cadena[i] == cadena[j]) {
-            res = recursion(mat, i+1,j-1, cadena);
+            res = recursion(mat, i + 1, j - 1, cadena);
         }
         else {
-            res = min(recursion(mat, i+1,j,cadena)+1, recursion(mat, i, j-1,cadena)+1);
+            res = min(recursion(mat, i + 1, j, cadena) + 1, recursion(mat, i, j - 1, cadena) + 1);
         }
         mat[i][j] = res;
     }
@@ -48,7 +48,7 @@ void reconstruir(string const& orig, Matriz<EntInf> const& palabra,
 
 EntInf resolver(string const& palabra, string& res) {
     const int M = palabra.size();
-    Matriz<EntInf> mat(M,M, Infinito);
+    Matriz<EntInf> mat(M, M, Infinito);
     EntInf resultado = recursion(mat, 0, M - 1, palabra);
     reconstruir(palabra, mat, 0, M - 1, res);
 
@@ -65,7 +65,7 @@ bool resuelveCaso() {
     if (!std::cin)  // fin de la entrada
         return false;
 
-    EntInf sol = resolver(entrada,salida);
+    EntInf sol = resolver(entrada, salida);
 
     if (sol == Infinito) cout << "sin solucion\n";
     else cout << sol << " " << salida << "\n";

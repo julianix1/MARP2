@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b88db01-f816-4872-8e22-d9679a180081}</ProjectGuid>
-    <RootNamespace>EJ06</RootNamespace>
+    <ProjectGuid>{c90acc10-fab3-43a9-a6d3-2397b9ee4115}</ProjectGuid>
+    <RootNamespace>Ej06</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EJ_06.cpp" />
+    <ClCompile Include="Ej_06.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EnterosInf.h" />

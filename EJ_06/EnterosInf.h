@@ -16,9 +16,9 @@
 #include <iostream>
 
 class EntInf {
-    long long int num;
+    int num;
 public:
-    static const long long _intInf = 223372036854775807;
+    static const int _intInf = 1000000000;
 
     EntInf(int n = 0) : num(n) {}
 
