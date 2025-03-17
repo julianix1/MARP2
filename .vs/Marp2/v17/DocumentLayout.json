@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|solutionrelative:Ej_06\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AC6CB990-CCC2-4298-9795-991E4A9DD2FC}|Ej_15\\Ej_15.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_15\\Ej_15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC6CB990-CCC2-4298-9795-991E4A9DD2FC}|Ej_15\\Ej_15.vcxproj|solutionrelative:Ej_15\\Ej_15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\Ej_06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|solutionrelative:Ej_06\\Ej_06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC6CB990-CCC2-4298-9795-991E4A9DD2FC}|Ej_15\\Ej_15.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_15\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC6CB990-CCC2-4298-9795-991E4A9DD2FC}|Ej_15\\Ej_15.vcxproj|solutionrelative:Ej_15\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\EnterosInf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|solutionrelative:Ej_06\\EnterosInf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|AA plantillas{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\numCasos.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|AA plantillas{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|solutionrelative:numCasos.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\Matriz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C90ACC10-FAB3-43A9-A6D3-2397B9EE4115}|Ej_06\\Ej_06.vcxproj|solutionrelative:Ej_06\\Matriz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|AA plantillas{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\casosIlimitados.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|AA plantillas{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|solutionrelative:casosIlimitados.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\Matriz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|solutionrelative:Ej_05\\Matriz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8F5A3103-F750-4031-9469-BBBD2EBB5C7A}|Ej_14\\Ej_14.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_14\\Ej_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F5A3103-F750-4031-9469-BBBD2EBB5C7A}|Ej_14\\Ej_14.vcxproj|solutionrelative:Ej_14\\Ej_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BA34EA3-47E6-4976-88F4-57E0FF9FB8ED}|Ej_03\\Ej_03.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_03\\Matriz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2BA34EA3-47E6-4976-88F4-57E0FF9FB8ED}|Ej_03\\Ej_03.vcxproj|solutionrelative:Ej_03\\Matriz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8F5A3103-F750-4031-9469-BBBD2EBB5C7A}|Ej_14\\Ej_14.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_14\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F5A3103-F750-4031-9469-BBBD2EBB5C7A}|Ej_14\\Ej_14.vcxproj|solutionrelative:Ej_14\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\EnterosInf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|solutionrelative:Ej_05\\EnterosInf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|solutionrelative:Ej_05\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\Ej_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D0893F7-D93C-4C63-8E25-06A6199A6865}|Ej_05\\Ej_05.vcxproj|solutionrelative:Ej_05\\Ej_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|AA plantillas{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\centinela.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|AA plantillas{C3D4ADAE-0727-49FD-968D-A4E524BE9699}|solutionrelative:centinela.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "casos.txt",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\casos.txt",
-              "RelativeDocumentMoniker": "Ej_06\\casos.txt",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\casos.txt",
-              "RelativeToolTip": "Ej_06\\casos.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_15\\casos.txt",
+              "RelativeDocumentMoniker": "Ej_15\\casos.txt",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_15\\casos.txt",
+              "RelativeToolTip": "Ej_15\\casos.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-13T14:17:40.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Matriz.h",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_03\\Matriz.h",
-              "RelativeDocumentMoniker": "Ej_03\\Matriz.h",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_03\\Matriz.h",
-              "RelativeToolTip": "Ej_03\\Matriz.h",
-              "ViewState": "AQIAACkAAAAAAAAAAAAowEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-13T14:17:09.356Z",
+              "WhenOpened": "2025-03-17T11:18:37.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EnterosInf.h",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\EnterosInf.h",
-              "RelativeDocumentMoniker": "Ej_06\\EnterosInf.h",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\EnterosInf.h",
-              "RelativeToolTip": "Ej_06\\EnterosInf.h",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-13T14:16:40.755Z",
+              "Title": "numCasos.c",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\numCasos.c",
+              "RelativeDocumentMoniker": "numCasos.c",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\numCasos.c",
+              "RelativeToolTip": "numCasos.c",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T10:59:45.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Matriz.h",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\Matriz.h",
-              "RelativeDocumentMoniker": "Ej_06\\Matriz.h",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\Matriz.h",
-              "RelativeToolTip": "Ej_06\\Matriz.h",
-              "ViewState": "AQIAACkAAAAAAAAAAAAowEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-13T14:16:32.572Z",
+              "Title": "casosIlimitados.c",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\casosIlimitados.c",
+              "RelativeDocumentMoniker": "casosIlimitados.c",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\casosIlimitados.c",
+              "RelativeToolTip": "casosIlimitados.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T10:30:02.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ej_06.cpp",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\Ej_06.cpp",
-              "RelativeDocumentMoniker": "Ej_06\\Ej_06.cpp",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_06\\Ej_06.cpp",
-              "RelativeToolTip": "Ej_06\\Ej_06.cpp",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFoAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Ej_15.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_15\\Ej_15.cpp",
+              "RelativeDocumentMoniker": "Ej_15\\Ej_15.cpp",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_15\\Ej_15.cpp",
+              "RelativeToolTip": "Ej_15\\Ej_15.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:16:10.723Z",
+              "WhenOpened": "2025-03-17T10:55:41.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "casos.txt",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\casos.txt",
-              "RelativeDocumentMoniker": "Ej_05\\casos.txt",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\casos.txt",
-              "RelativeToolTip": "Ej_05\\casos.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_14\\casos.txt",
+              "RelativeDocumentMoniker": "Ej_14\\casos.txt",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_14\\casos.txt",
+              "RelativeToolTip": "Ej_14\\casos.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-13T14:04:46.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ej_05.cpp",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\Ej_05.cpp",
-              "RelativeDocumentMoniker": "Ej_05\\Ej_05.cpp",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\Ej_05.cpp",
-              "RelativeToolTip": "Ej_05\\Ej_05.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:04:31.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Matriz.h",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\Matriz.h",
-              "RelativeDocumentMoniker": "Ej_05\\Matriz.h",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\Matriz.h",
-              "RelativeToolTip": "Ej_05\\Matriz.h",
-              "ViewState": "AQIAACkAAAAAAAAAAAAowEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-13T14:04:17.227Z",
+              "WhenOpened": "2025-03-17T10:43:16.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EnterosInf.h",
-              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\EnterosInf.h",
-              "RelativeDocumentMoniker": "Ej_05\\EnterosInf.h",
-              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_05\\EnterosInf.h",
-              "RelativeToolTip": "Ej_05\\EnterosInf.h",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-13T14:03:52.814Z",
+              "Title": "centinela.c",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\centinela.c",
+              "RelativeDocumentMoniker": "centinela.c",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\centinela.c",
+              "RelativeToolTip": "centinela.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T10:30:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ej_14.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_14\\Ej_14.cpp",
+              "RelativeDocumentMoniker": "Ej_14\\Ej_14.cpp",
+              "ToolTip": "C:\\Users\\julia\\Documents\\Programacion\\c\u002B\u002B\\Marp2\\Ej_14\\Ej_14.cpp",
+              "RelativeToolTip": "Ej_14\\Ej_14.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T10:29:43.195Z",
               "EditorCaption": ""
             }
           ]
