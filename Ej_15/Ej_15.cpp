@@ -16,8 +16,9 @@ void resolver(vector<bool>& marcado, const vector<carro>& carros, const vector<i
         afinidadMaxima = max(afinidadMaxima, afinidadActual);
     }
     else {
+        resolver(marcado, carros, caminos, numCaminos, caminoActual + 1, afinidadActual, afinidadMaxima); //no se coge ningun carro
         for (int i = 0; i < carros.size();i++) {
-            if (!marcado[i]) {
+            if (carros[i].anchura <= caminos[caminoActual] && !marcado[i]) {
                 marcado[i] = true;
                 resolver(marcado, carros, caminos, numCaminos, caminoActual+1, afinidadActual+carros[i].afinidad[caminoActual], afinidadMaxima);
                 marcado[i] = false;
